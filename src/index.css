@@ -1,3 +1,25 @@
-body {
+html,
+body,
+#root {
   margin: 0;
+}
+
+.panel {
+  position: fixed;
+  left: 0;
+  width: 300px;
+  height: 100%;
+  padding: 10px;
+  line-height: 30px;
+  cursor: pointer;
+  border-right-width: 1px;
+  border-right-color: #e8e8e8;
+  border-right-style: solid;
+}
+
+.viewer {
+  position: absolute;
+  left: 300px;
+  right: 0;
+  height: 100%;
 }
