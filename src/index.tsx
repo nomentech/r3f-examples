@@ -11,7 +11,7 @@ root.render(
   // StrictMode will cause constructor called twice
   // https://stackoverflow.com/questions/49206509/child-component-constructor-called-multiple-times/61443443#61443443
   <React.StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <App />
     </BrowserRouter>
   </React.StrictMode>

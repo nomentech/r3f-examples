@@ -2,7 +2,7 @@ import { useEffect, useMemo, useRef, useState } from 'react'
 import * as THREE from 'three'
 import { Canvas, useFrame } from '@react-three/fiber'
 import niceColors from 'nice-color-palettes'
-import Effects from './Effects'
+// import Effects from './Effects'
 
 const tempObject = new THREE.Object3D()
 const tempColor = new THREE.Color()

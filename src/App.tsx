@@ -7,7 +7,8 @@ const basic_examples = [
   'basic-demo',
   'transformcontrols-and-makedefault',
   'bounds-and-makedefault',
-  'instanced-vertex-colors'
+  'instanced-vertex-colors',
+  'progressive-loading-states-with-suspense'
 ]
 
 const Menu = () => {
