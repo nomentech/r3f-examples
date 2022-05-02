@@ -6,7 +6,8 @@ import menuIcon from './images/ic_menu_black_24dp.svg'
 const basic_examples = [
   'basic-demo',
   'transformcontrols-and-makedefault',
-  'bounds-and-makedefault'
+  'bounds-and-makedefault',
+  'instanced-vertex-colors'
 ]
 
 const Menu = () => {
