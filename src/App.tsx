@@ -9,7 +9,8 @@ const basic_examples = [
   'bounds-and-makedefault',
   'instanced-vertex-colors',
   'progressive-loading-states-with-suspense',
-  'gltf-animations-re-used'
+  'gltf-animations-re-used',
+  're-using-gltfs'
 ]
 
 const Menu = () => {
