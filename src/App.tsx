@@ -11,7 +11,8 @@ const basic_examples = [
   'progressive-loading-states-with-suspense',
   'gltf-animations-re-used',
   're-using-gltfs',
-  'mixing-html-and-webgl'
+  'mixing-html-and-webgl',
+  'viewcube'
 ]
 
 const Menu = () => {
