@@ -10,7 +10,8 @@ const basic_examples = [
   'instanced-vertex-colors',
   'progressive-loading-states-with-suspense',
   'gltf-animations-re-used',
-  're-using-gltfs'
+  're-using-gltfs',
+  'mixing-html-and-webgl'
 ]
 
 const Menu = () => {
