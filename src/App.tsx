@@ -8,7 +8,8 @@ const basic_examples = [
   'transformcontrols-and-makedefault',
   'bounds-and-makedefault',
   'instanced-vertex-colors',
-  'progressive-loading-states-with-suspense'
+  'progressive-loading-states-with-suspense',
+  'gltf-animations-re-used'
 ]
 
 const Menu = () => {
