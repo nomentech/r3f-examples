@@ -13,7 +13,8 @@ const basic_examples = [
   're-using-gltfs',
   'mixing-html-and-webgl',
   'viewcube',
-  'mixing-controls'
+  'mixing-controls',
+  'video-textures'
 ]
 
 const Menu = () => {
