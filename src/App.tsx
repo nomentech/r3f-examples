@@ -16,7 +16,8 @@ const basic_examples = [
   'mixing-controls',
   'video-textures',
   'sky-dome-with-annotations',
-  'tying-canvas-to-scroll-offset'
+  'tying-canvas-to-scroll-offset',
+  'edgesgeometry'
 ]
 
 const Menu = () => {
