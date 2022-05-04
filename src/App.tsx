@@ -14,7 +14,8 @@ const basic_examples = [
   'mixing-html-and-webgl',
   'viewcube',
   'mixing-controls',
-  'video-textures'
+  'video-textures',
+  'sky-dome-with-annotations'
 ]
 
 const Menu = () => {
