@@ -15,7 +15,8 @@ const basic_examples = [
   'viewcube',
   'mixing-controls',
   'video-textures',
-  'sky-dome-with-annotations'
+  'sky-dome-with-annotations',
+  'tying-canvas-to-scroll-offset'
 ]
 
 const Menu = () => {
@@ -34,7 +35,7 @@ const Menu = () => {
         <img src={menuIcon} onClick={() => setShowMenu(true)} alt='' />
       </div>
 
-      {showMenu && <div className='fixed bg-slate-100 w-[300px] h-full overflow-auto z-20'>
+      {showMenu && <div className='fixed bg-slate-100 w-[300px] h-full overflow-x-hidden z-20'>
         <div className='h-12 flex justify-between items-center border-b border-b-[#e8e8e8]'>
           <h1 className='pl-4 text-[#049ef4]'>R3F Examples</h1>
           <div className='bg-[url("./images/ic_close_black_24dp.svg")] bg-center
