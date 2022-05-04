@@ -12,7 +12,8 @@ const basic_examples = [
   'gltf-animations-re-used',
   're-using-gltfs',
   'mixing-html-and-webgl',
-  'viewcube'
+  'viewcube',
+  'mixing-controls'
 ]
 
 const Menu = () => {
