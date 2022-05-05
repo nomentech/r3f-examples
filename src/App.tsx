@@ -18,7 +18,8 @@ const basic_examples = [
   'sky-dome-with-annotations',
   'tying-canvas-to-scroll-offset',
   'edgesgeometry',
-  'html-annotations'
+  'html-annotations',
+  'shadermaterials'
 ]
 
 const Menu = () => {
