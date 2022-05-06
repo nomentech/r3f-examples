@@ -32,7 +32,7 @@ const Example = ({ children }: any) => {
   return (
     <>
       { children }
-      <Canvas dpr={[1, 2]} camera={{ position: [-5, 5, 5], fov: 50}} >
+      <Canvas dpr={[1, 2]} camera={{ position: [-5, 5, 5], fov: 50}} shadows >
         <ambientLight />
         <spotLight angle={0.25}  penumbra={0.5} position={[10, 10, 5]} castShadow />
         <Physics>

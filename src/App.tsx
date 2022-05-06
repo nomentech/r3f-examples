@@ -20,7 +20,8 @@ const basic_examples = [
   'edgesgeometry',
   'html-annotations',
   'shadermaterials',
-  'simple-physics-demo'
+  'simple-physics-demo',
+  'trigger-meshes'
 ]
 
 const Menu = () => {
