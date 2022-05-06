@@ -19,7 +19,8 @@ const basic_examples = [
   'tying-canvas-to-scroll-offset',
   'edgesgeometry',
   'html-annotations',
-  'shadermaterials'
+  'shadermaterials',
+  'simple-physics-demo'
 ]
 
 const Menu = () => {
