@@ -21,7 +21,8 @@ const basic_examples = [
   'html-annotations',
   'shadermaterials',
   'simple-physics-demo',
-  'trigger-meshes'
+  'trigger-meshes',
+  'simple-physics-demo-with-debug-bounds'
 ]
 
 const Menu = () => {
