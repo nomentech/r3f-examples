@@ -23,7 +23,8 @@ const basic_examples = [
   'simple-physics-demo',
   'trigger-meshes',
   'simple-physics-demo-with-debug-bounds',
-  'selective-outlines'
+  'selective-outlines',
+  'instances'
 ]
 
 const Menu = () => {
