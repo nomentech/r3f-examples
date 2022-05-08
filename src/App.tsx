@@ -22,7 +22,8 @@ const basic_examples = [
   'shadermaterials',
   'simple-physics-demo',
   'trigger-meshes',
-  'simple-physics-demo-with-debug-bounds'
+  'simple-physics-demo-with-debug-bounds',
+  'selective-outlines'
 ]
 
 const Menu = () => {
