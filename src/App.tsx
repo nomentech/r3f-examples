@@ -26,7 +26,8 @@ const basic_examples = [
   'selective-outlines',
   'instances',
   'physics-with-convex-polyhedrons',
-  'color-grading'
+  'color-grading',
+  'grass-shader'
 ]
 
 const Menu = () => {
