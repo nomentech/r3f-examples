@@ -25,7 +25,8 @@ const basic_examples = [
   'simple-physics-demo-with-debug-bounds',
   'selective-outlines',
   'instances',
-  'physics-with-convex-polyhedrons'
+  'physics-with-convex-polyhedrons',
+  'color-grading'
 ]
 
 const Menu = () => {
