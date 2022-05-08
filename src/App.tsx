@@ -24,7 +24,8 @@ const basic_examples = [
   'trigger-meshes',
   'simple-physics-demo-with-debug-bounds',
   'selective-outlines',
-  'instances'
+  'instances',
+  'physics-with-convex-polyhedrons'
 ]
 
 const Menu = () => {
