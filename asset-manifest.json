@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/r3f-examples/static/css/main.0de73495.css",
-    "main.js": "/r3f-examples/static/js/main.64068e9d.js",
+    "main.css": "/r3f-examples/static/css/main.dea3a6f1.css",
+    "main.js": "/r3f-examples/static/js/main.3c5d24cf.js",
     "static/js/413.19bba9fb.chunk.js": "/r3f-examples/static/js/413.19bba9fb.chunk.js",
     "static/js/98.afb6d543.chunk.js": "/r3f-examples/static/js/98.afb6d543.chunk.js",
     "static/js/107.dcead2d6.chunk.js": "/r3f-examples/static/js/107.dcead2d6.chunk.js",
     "static/js/890.0836155a.chunk.js": "/r3f-examples/static/js/890.0836155a.chunk.js",
     "static/js/124.23293d9a.chunk.js": "/r3f-examples/static/js/124.23293d9a.chunk.js",
+    "static/js/601.c47cef2f.chunk.js": "/r3f-examples/static/js/601.c47cef2f.chunk.js",
     "static/js/55.2fd03b61.chunk.js": "/r3f-examples/static/js/55.2fd03b61.chunk.js",
     "static/js/661.f2462f3c.chunk.js": "/r3f-examples/static/js/661.f2462f3c.chunk.js",
     "static/js/816.a41f610e.chunk.js": "/r3f-examples/static/js/816.a41f610e.chunk.js",
@@ -16,7 +17,7 @@
     "static/js/965.8defdcc6.chunk.js": "/r3f-examples/static/js/965.8defdcc6.chunk.js",
     "static/js/33.96068d18.chunk.js": "/r3f-examples/static/js/33.96068d18.chunk.js",
     "static/js/751.967bc191.chunk.js": "/r3f-examples/static/js/751.967bc191.chunk.js",
-    "static/js/392.99b5feb9.chunk.js": "/r3f-examples/static/js/392.99b5feb9.chunk.js",
+    "static/js/360.57b424c7.chunk.js": "/r3f-examples/static/js/360.57b424c7.chunk.js",
     "static/js/99.d8c26003.chunk.js": "/r3f-examples/static/js/99.d8c26003.chunk.js",
     "static/js/533.0bed8ab5.chunk.js": "/r3f-examples/static/js/533.0bed8ab5.chunk.js",
     "static/js/209.d8ef91f5.chunk.js": "/r3f-examples/static/js/209.d8ef91f5.chunk.js",
@@ -34,6 +35,7 @@
     "static/js/737.4a440af0.chunk.js": "/r3f-examples/static/js/737.4a440af0.chunk.js",
     "static/js/300.6cf7221a.chunk.js": "/r3f-examples/static/js/300.6cf7221a.chunk.js",
     "static/js/670.d69011c6.chunk.js": "/r3f-examples/static/js/670.d69011c6.chunk.js",
+    "static/js/540.d5550f76.chunk.js": "/r3f-examples/static/js/540.d5550f76.chunk.js",
     "static/media/bust-hi.glb": "/r3f-examples/static/media/bust-hi.bfda6ac626babf3f5693.glb",
     "static/media/Photosphere1.jpg": "/r3f-examples/static/media/Photosphere1.0c0b410e30a72f1ec11f.jpg",
     "static/media/10.mp4": "/r3f-examples/static/media/10.7aa1483903c2db4a0f1a.mp4",
@@ -46,7 +48,9 @@
     "static/media/stacy.jpg": "/r3f-examples/static/media/stacy.1183d2a5990bfb2d1146.jpg",
     "static/media/Img2.jpg": "/r3f-examples/static/media/Img2.c0c1045ad21235e29cbe.jpg",
     "static/media/headless.glb": "/r3f-examples/static/media/headless.ed27d4d0fc7075c0f38f.glb",
+    "static/media/blade_diffuse.jpg": "/r3f-examples/static/media/blade_diffuse.afc6a995c517c5c0bb32.jpg",
     "static/media/10.jpg": "/r3f-examples/static/media/10.97f5f239917112f38303.jpg",
+    "static/media/blade_alpha.jpg": "/r3f-examples/static/media/blade_alpha.fd72bbc9635d5a296576.jpg",
     "static/media/Img1.jpg": "/r3f-examples/static/media/Img1.760b909c372e5a2cf549.jpg",
     "static/media/diamond.glb": "/r3f-examples/static/media/diamond.77a1a5ac741121afdba8.glb",
     "static/media/bust-lo-draco.glb": "/r3f-examples/static/media/bust-lo-draco.2a6e13219808ecd6fbf9.glb",
@@ -54,13 +58,14 @@
     "static/media/ic_search_black_24dp.svg": "/r3f-examples/static/media/ic_search_black_24dp.1c21a280c3a3006e793c.svg",
     "static/media/ic_close_black_24dp.svg": "/r3f-examples/static/media/ic_close_black_24dp.bdad3c6edd834620e7b9.svg",
     "static/media/ic_menu_black_24dp.svg": "/r3f-examples/static/media/ic_menu_black_24dp.ad23b308ffdc82e361330ca9c3ba517d.svg",
-    "main.0de73495.css.map": "/r3f-examples/static/css/main.0de73495.css.map",
-    "main.64068e9d.js.map": "/r3f-examples/static/js/main.64068e9d.js.map",
+    "main.dea3a6f1.css.map": "/r3f-examples/static/css/main.dea3a6f1.css.map",
+    "main.3c5d24cf.js.map": "/r3f-examples/static/js/main.3c5d24cf.js.map",
     "413.19bba9fb.chunk.js.map": "/r3f-examples/static/js/413.19bba9fb.chunk.js.map",
     "98.afb6d543.chunk.js.map": "/r3f-examples/static/js/98.afb6d543.chunk.js.map",
     "107.dcead2d6.chunk.js.map": "/r3f-examples/static/js/107.dcead2d6.chunk.js.map",
     "890.0836155a.chunk.js.map": "/r3f-examples/static/js/890.0836155a.chunk.js.map",
     "124.23293d9a.chunk.js.map": "/r3f-examples/static/js/124.23293d9a.chunk.js.map",
+    "601.c47cef2f.chunk.js.map": "/r3f-examples/static/js/601.c47cef2f.chunk.js.map",
     "55.2fd03b61.chunk.js.map": "/r3f-examples/static/js/55.2fd03b61.chunk.js.map",
     "661.f2462f3c.chunk.js.map": "/r3f-examples/static/js/661.f2462f3c.chunk.js.map",
     "816.a41f610e.chunk.js.map": "/r3f-examples/static/js/816.a41f610e.chunk.js.map",
@@ -70,7 +75,7 @@
     "965.8defdcc6.chunk.js.map": "/r3f-examples/static/js/965.8defdcc6.chunk.js.map",
     "33.96068d18.chunk.js.map": "/r3f-examples/static/js/33.96068d18.chunk.js.map",
     "751.967bc191.chunk.js.map": "/r3f-examples/static/js/751.967bc191.chunk.js.map",
-    "392.99b5feb9.chunk.js.map": "/r3f-examples/static/js/392.99b5feb9.chunk.js.map",
+    "360.57b424c7.chunk.js.map": "/r3f-examples/static/js/360.57b424c7.chunk.js.map",
     "99.d8c26003.chunk.js.map": "/r3f-examples/static/js/99.d8c26003.chunk.js.map",
     "533.0bed8ab5.chunk.js.map": "/r3f-examples/static/js/533.0bed8ab5.chunk.js.map",
     "209.d8ef91f5.chunk.js.map": "/r3f-examples/static/js/209.d8ef91f5.chunk.js.map",
@@ -87,10 +92,11 @@
     "308.5d2c7d61.chunk.js.map": "/r3f-examples/static/js/308.5d2c7d61.chunk.js.map",
     "737.4a440af0.chunk.js.map": "/r3f-examples/static/js/737.4a440af0.chunk.js.map",
     "300.6cf7221a.chunk.js.map": "/r3f-examples/static/js/300.6cf7221a.chunk.js.map",
-    "670.d69011c6.chunk.js.map": "/r3f-examples/static/js/670.d69011c6.chunk.js.map"
+    "670.d69011c6.chunk.js.map": "/r3f-examples/static/js/670.d69011c6.chunk.js.map",
+    "540.d5550f76.chunk.js.map": "/r3f-examples/static/js/540.d5550f76.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0de73495.css",
-    "static/js/main.64068e9d.js"
+    "static/css/main.dea3a6f1.css",
+    "static/js/main.3c5d24cf.js"
   ]
 }
