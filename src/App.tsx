@@ -28,7 +28,8 @@ const basic_examples = [
   'physics-with-convex-polyhedrons',
   'color-grading',
   'grass-shader',
-  'clouds'
+  'clouds',
+  'svg-maps-with-html-annotations'
 ]
 
 const Menu = () => {
