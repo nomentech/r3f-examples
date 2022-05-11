@@ -30,7 +30,8 @@ const basic_examples = [
   'grass-shader',
   'clouds',
   'svg-maps-with-html-annotations',
-  're-using-geometry-and-level-of-detail'
+  're-using-geometry-and-level-of-detail',
+  'html-markers'
 ]
 
 const Menu = () => {
