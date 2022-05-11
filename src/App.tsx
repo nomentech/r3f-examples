@@ -27,7 +27,8 @@ const basic_examples = [
   'instances',
   'physics-with-convex-polyhedrons',
   'color-grading',
-  'grass-shader'
+  'grass-shader',
+  'clouds'
 ]
 
 const Menu = () => {
