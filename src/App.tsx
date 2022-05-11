@@ -29,7 +29,8 @@ const basic_examples = [
   'color-grading',
   'grass-shader',
   'clouds',
-  'svg-maps-with-html-annotations'
+  'svg-maps-with-html-annotations',
+  're-using-geometry-and-level-of-detail'
 ]
 
 const Menu = () => {
