@@ -33,7 +33,8 @@ const basic_examples = [
   're-using-geometry-and-level-of-detail',
   'html-markers',
   'bezier-curves-nodes',
-  'shader-fire'
+  'shader-fire',
+  'water-shader'
 ]
 
 const Menu = () => {
