@@ -34,7 +34,8 @@ const basic_examples = [
   'html-markers',
   'bezier-curves-nodes',
   'shader-fire',
-  'water-shader'
+  'water-shader',
+  'staging-and-camerashake'
 ]
 
 const Menu = () => {
