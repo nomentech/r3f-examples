@@ -32,7 +32,8 @@ const basic_examples = [
   'svg-maps-with-html-annotations',
   're-using-geometry-and-level-of-detail',
   'html-markers',
-  'bezier-curves-nodes'
+  'bezier-curves-nodes',
+  'shader-fire'
 ]
 
 const Menu = () => {
