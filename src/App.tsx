@@ -31,7 +31,8 @@ const basic_examples = [
   'clouds',
   'svg-maps-with-html-annotations',
   're-using-geometry-and-level-of-detail',
-  'html-markers'
+  'html-markers',
+  'bezier-curves-nodes'
 ]
 
 const Menu = () => {
