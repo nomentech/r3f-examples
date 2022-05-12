@@ -35,7 +35,8 @@ const basic_examples = [
   'bezier-curves-nodes',
   'shader-fire',
   'water-shader',
-  'staging-and-camerashake'
+  'staging-and-camerashake',
+  'hinge-motor-physics'
 ]
 
 const Menu = () => {
