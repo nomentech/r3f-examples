@@ -38,7 +38,8 @@ const basic_examples = [
   'staging-and-camerashake',
   'hinge-motor-physics',
   'glass-transmission',
-  'spherical-word-cloud'
+  'spherical-word-cloud',
+  'shader-hmr'
 ]
 
 const Menu = () => {
