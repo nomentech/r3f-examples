@@ -36,7 +36,8 @@ const basic_examples = [
   'shader-fire',
   'water-shader',
   'staging-and-camerashake',
-  'hinge-motor-physics'
+  'hinge-motor-physics',
+  'glass-transmission'
 ]
 
 const Menu = () => {
