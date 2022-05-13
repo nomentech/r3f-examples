@@ -37,7 +37,8 @@ const basic_examples = [
   'water-shader',
   'staging-and-camerashake',
   'hinge-motor-physics',
-  'glass-transmission'
+  'glass-transmission',
+  'spherical-word-cloud'
 ]
 
 const Menu = () => {
