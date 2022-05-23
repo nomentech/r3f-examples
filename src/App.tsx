@@ -42,14 +42,24 @@ const basic_examples = [
   'shader-hmr'
 ]
 
+const showcase = [
+  'figma-noodles'
+]
+
 const Menu = () => {
   const navigate = useNavigate()
   const [showMenu, setShowMenu] = useState(false)
   const [examples, setExamples] = useState(basic_examples)
+  const [showcases, setShowcases] = useState(showcase)
 
-  const searchExamples = (event: any) => {
-    const result = basic_examples.filter(item => item.includes(event.target.value))
-    setExamples(result)
+  const search = (event: any) => {
+    const value = event.target.value
+
+    const result1 = basic_examples.filter(item => item.includes(value))
+    setExamples(result1)
+
+    const result2 = showcases.filter(item => item.includes(value))
+    setShowcases(result2)
   }
 
   return (
@@ -70,12 +80,26 @@ const Menu = () => {
           <div className='flex items-center h-12 p-4 border-b border-b-[#e8e8e8]'>
             <input className='bg-[url("./images/ic_search_black_24dp.svg")] bg-transparent
               bg-no-repeat border-none outline-none w-full pl-8 text-[#444]' 
-              onChange={searchExamples}
+              onChange={search}
             />
           </div>
+
           <div className='px-4 overflow-x-hidden overflow-y-auto'>
             <h2 className='my-4 font-medium text-[#049ef4]'>Basic Examples</h2>
             {examples.map(item => (
+              <div 
+                key={item} 
+                className='pb-1 font-medium hover:text-[#049ef4] cursor-pointer'
+                onClick={() => navigate('/'+item)}
+              >
+                {item.replaceAll('-', ' ')}
+              </div>
+            ))}
+          </div>
+
+          <div className='px-4 overflow-x-hidden overflow-y-auto'>
+            <h2 className='my-4 font-medium text-[#049ef4]'>Showcase</h2>
+            {showcases.map(item => (
               <div 
                 key={item} 
                 className='pb-1 font-medium hover:text-[#049ef4] cursor-pointer'
@@ -95,6 +119,15 @@ const App = () => {
   const routes: any[] = []
   basic_examples.forEach(item => {
     const Component = lazy(() => import(`./basic-examples/${item}/Example`))
+    routes.push(<Route key={item} path={item} element={
+      <Component>
+        <Menu />
+      </Component>
+    } />)
+  })
+
+  showcase.forEach(item => {
+    const Component = lazy(() => import(`./showcase/${item}/Example`))
     routes.push(<Route key={item} path={item} element={
       <Component>
         <Menu />
