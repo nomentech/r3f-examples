@@ -45,7 +45,8 @@ const basic_examples = [
 const showcase = [
   'figma-noodles',
   'building-live-envmaps',
-  'clones'
+  'clones',
+  'lamina-1.x'
 ]
 
 const Menu = () => {
