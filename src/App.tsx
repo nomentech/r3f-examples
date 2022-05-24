@@ -43,7 +43,8 @@ const basic_examples = [
 ]
 
 const showcase = [
-  'figma-noodles'
+  'figma-noodles',
+  'building-live-envmaps'
 ]
 
 const Menu = () => {
