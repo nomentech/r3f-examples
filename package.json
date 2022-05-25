@@ -15,6 +15,7 @@
     "@types/three": "^0.139.0",
     "@use-gesture/react": "^10.2.12",
     "babel-plugin-glsl": "^1.0.0",
+    "gl-noise": "^1.6.1",
     "lamina": "^1.1.20",
     "leva": "^0.9.23",
     "lodash-es": "^4.17.21",
