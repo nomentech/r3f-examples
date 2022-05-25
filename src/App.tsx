@@ -45,6 +45,7 @@ const basic_examples = [
 const showcase = [
   'figma-noodles',
   'building-live-envmaps',
+  'r3f-fairly-realistic-grass-forked',
   'clones',
   'lamina-1.x'
 ]

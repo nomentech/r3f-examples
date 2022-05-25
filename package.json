@@ -19,6 +19,7 @@
     "leva": "^0.9.23",
     "lodash-es": "^4.17.21",
     "nice-color-palettes": "^3.0.0",
+    "perlin.js": "^1.0.0",
     "random-words": "^1.1.2",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
@@ -27,6 +28,7 @@
     "react-scripts": "5.0.1",
     "simplex-noise": "^3.0.1",
     "three": "^0.139.2",
+    "three-noise": "^1.1.2",
     "typescript": "^4.6.3",
     "valtio": "^1.6.0"
   },

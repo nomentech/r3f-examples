@@ -1,6 +1,8 @@
 /// <reference types='react-scripts' />
 declare module 'lodash-es/without'
 declare module 'babel-plugin-glsl/macro'
+declare module 'perlin.js'
+declare module 'three-noise'
 declare module 'random-words'
 declare module '*.svg'
 declare module '*.mp4'
